@@ -1,0 +1,102 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    padding: 0;
+    margin: 0;
+    font-family: 'Didact Gothic', sans-serif;
+}
+
+h3{
+    margin-right: 10vh;
+    text-align: right;
+}
+
+.facul{
+    background-color: white;
+    text-align: center;
+    margin-top: 10vh;
+}
+.facul1{
+    margin-top: 5vh;
+}
+.facul2{
+    background-color: white;
+    text-align: center;
+    margin-top: 15vh;
+}
+.prog{
+    margin-bottom: 5vh;
+}
+.foto{
+
+    height: 20vh;
+}
+.foto1{
+
+    height: 20vh;
+}
+.vacia{
+    background-color: white;
+    height: 6vh;
+    margin-top: 3vh;
+    margin-bottom: 3vh;
+}
+
+.icon{
+    text-align: center;
+    height: 20vh;
+}
+.icon1{
+    text-align: center;
+    height: 20vh;
+}
+.text{
+    text-align: center;
+padding-top: 7vh;
+}
+h5{
+    color: #4C2683;
+}
+.sitio{
+    background-color: #4C2683;
+    height: 10vh;
+}
+h2{
+    color: white;
+}
+.traba{
+    margin-top: 1vh;
+    font-weight: 200;
+}
+.sitio2{
+    background-color: #4C2683;
+    height: 30vh;
+}
+.contact{
+    height: 7vh;
+}
+h6{
+    color: white;
+}
+.contact1{
+    height: 7vh;
+    margin-top: 1vh;
+}
+.social{
+    text-align: center;
+}
+.titulo{
+    background-color: #FFD756;
+    height: 26vh;
+}
+.imagenq{
+    width: 140vh;
+    margin-left: 29vh;
+}
+h1{
+    color: #4C2683;
+}
+.libro{
+    height: 100vh;
+}

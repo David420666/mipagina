@@ -40,7 +40,7 @@ h3{
     background-color: white;
     height: 6vh;
     margin-top: 3vh;
-    margin-bottom: 3vh;
+    margin-bottom: 1vh;
 }
 
 .icon{
@@ -75,7 +75,9 @@ h2{
     height: 7vh;
 }
 h6{
+    font-size: large;
     color: white;
+    margin-top: 2vh;
 }
 .contact1{
     height: 7vh;
@@ -83,6 +85,7 @@ h6{
 }
 .social{
     text-align: center;
+    margin-bottom: 4vh;
 }
 .titulo{
     background-color: #FFD756;
@@ -125,3 +128,7 @@ h1{
   .btn-group .button:hover {
     background-color: #4C2683;
   }
+.sobremi1{
+    
+    background-color: #4C2683;
+}

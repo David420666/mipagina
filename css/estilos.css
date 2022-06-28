@@ -60,7 +60,6 @@ h5{
 }
 .sitio{
     background-color: #4C2683;
-    height: 10vh;
 }
 h2{
     color: white;
@@ -71,7 +70,6 @@ h2{
 }
 .sitio2{
     background-color: #4C2683;
-    height: 30vh;
 }
 .contact{
     height: 7vh;
@@ -88,15 +86,26 @@ h6{
 }
 .titulo{
     background-color: #FFD756;
-    height: 26vh;
+    text-align: center;
 }
 .imagenq{
-    width: 140vh;
-    margin-left: 29vh;
+    width: 100%;
 }
 h1{
     color: #4C2683;
 }
 .libro{
     height: 100vh;
+    text-align: center;
+    background-color: white;
+}
+.book{
+    text-align: center;  
+    margin-top: 5vh; 
+    background-color: #4C2683;
+}
+.butoni{
+    margin-top: 17vh;
+    background-color: #FFD756;
+    border-color: #FFD756;
 }

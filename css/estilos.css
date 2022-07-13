@@ -142,3 +142,30 @@ h1{
     background-color: #4C2683;
     margin-bottom: 3vh;
 }
+#uno{
+    width: 50vh;
+    position: absolute;
+    left: 0;
+    top: 0;
+    z-index: 1;
+    animation-duration: 1s;
+    margin: 20px;
+}
+#dos{
+    width: 50vh;
+    position: absolute;
+    left: 0;
+    top: 0;
+    z-index: 2;
+    animation-duration: 1s;
+    margin: 20px;
+}
+#tres{
+    width: 50vh;
+    position: absolute;
+    left: 0;
+    top: 0;
+    z-index: 3;
+    animation-duration: 1s;
+    margin: 20px;
+}
